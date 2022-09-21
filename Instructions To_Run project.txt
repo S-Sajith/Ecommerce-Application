@@ -1,0 +1,27 @@
+Run Frontend:
+1) open vscode and load "shop-for-home-frontend" folder
+
+2)In vscode terminal enter following command :
+1] npm install 
+if not worked 
+1] npm install --force
+
+2] npm start 
+    or 
+2] ng serve
+
+
+
+Run Backend:
+1) open springtool suite 
+2) load project backend folders:
+import-> existing maven project ->"user_authentication_Microservice" 
+ 
+import-> existing maven project -> "product_Discount_Microservice"
+
+3) click on  each folder one by one AND right click -> Run as -> Springboot App
+
+4)Open browser and type "http://localhost:4200"
+it will show home page of shop for home application.
+
+5)Success !
